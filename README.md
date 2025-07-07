@@ -1,18 +1,13 @@
 # Applied Data Science for Security Professionals
 <img src="img/GTK_Logo_Social Icon.jpg" width="175" align="left" >
 
-### 2024 Trainings presented by GTK Cyber
+### 2025 Trainings presented by GTK Cyber
 
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
 all with a focus on direct applicability to cyber security.
 
 
-
-### Centaur Data Science Virtual Machine
-
-In order to have the best student experience, we strongly encourage you to download the Centaur VM here: [https://github.com/gtkcyber/centaur](https://github.com/gtkcyber/centaur).
-Centaur is a environment for data science. Centaur is based on Ubuntu MATE and includes numerous data science tools, all installed and configured for immediate use.
 
 
 ### Instructors
@@ -31,7 +26,6 @@ Centaur is a environment for data science. Centaur is based on Ubuntu MATE and i
 - Machine Learning (Supervised)
 - Machine Learning (Unsupervised)
 - Anomaly Detection
-- Hunting with Data Science
 - Hacking Machine Learning Models
 
 
@@ -45,21 +39,7 @@ Centaur is a environment for data science. Centaur is based on Ubuntu MATE and i
 
 ### Development Environment
 
-
-**Starting Jupyter notebook**: Go to Applications > Programming > Jupyter Notebook or hit the Nb icon located at the top menu bar. Navigate through your file system and open files with .ipynb extension.
-
-<img src="img/griffon-open-jupyter.png" width="300">
-
-**Starting Zeppelin notebook**: Go to Applications > Programming > Zeppelin > Start Zeppelin > open Mozilla web browser > http://localhost:8060/#/ or hit the Zeppelin icon (takes a while to start up) > import JSON to view notebook.
-
-<img src="img/griffon-open-zeppelin.png" width="300">
-
-**Copy files into VM**: Drag and drop files or folders. You will find them under Filesystem > tmp > VirtualBox Dropped Files > subfolders ...
-
-<img src="img/griffon-dropped-files.png" width="300">
-
-
-All exercises either as jupyter notebooks (.ipynb) or Zeppelin notebook (.json) are listed below.
+All exercises either as jupyter notebooks (.ipynb) are listed below.
 Solutions to all challenges are within the ```answers``` folder (also contains additional notebooks and resources).  The worksheets are numbered so that the first number references the module and the second number refers to the position in the module.  For example, the second worksheet in module 1 is Worksheet 1.2.  
 
 Notebooks/Scripts/Exercises and Data
@@ -78,7 +58,6 @@ Notebooks/Scripts/Exercises and Data
 - Worksheet 5.4 - Automate it All!.ipynb
 - Worksheet 6.0 - Clustering.ipynb
 - Worksheet 7.0 - Anomaly Detection.ipynb
-- Worksheet 8.0 - Hunting with Data Science.ipynb
 - Worksheet 9.0 - Featureless Deep Learning URL.ipynb
 - Worksheet 10.1 - Using AI for Anomaly Detection.ipynb
 - Worksheet 10.2 - Exploratory Data Analysis with AI.ipynb
@@ -98,7 +77,6 @@ Notebooks/Scripts/Exercises and Data
 - Worksheet 5.4 - Automate it All! - Answers.ipynb
 - Worksheet 6.0 - Clustering - Answers.ipynb
 - Worksheet 7.0 - Anomaly Detection - Answers.ipynb
-- Worksheet 8.0 - Hunting with Data Science - Answers.ipynb
 - Worksheet 9.0 - Featureless Deep Learning URL - Answers.ipynb
 - Worksheet 10.1 - Using GPT for Anomaly Detection - Answers.ipynb
 - Worksheet 10.2 - Exploratory Data Analysis with AI - Answers.ipynb
@@ -111,10 +89,7 @@ Notebooks/Scripts/Exercises and Data
    - Module 0.5 [Overview of Regular Expressions.pdf](./bonus/Module%200.5%20Overview%20of%20Regular%20Expressions.pdf)
    - Worksheet 0.1 - [Regular Expressions in Python.ipynb](./notebooks/Worksheet%200.1%20%20Regular%20Expressions%20in%20Python.ipynb)
    - Worksheet 0.1  Regular Expressions in Python - Answers.ipynb
-   - Worksheet 8.0 - Zeppelin - PySpark Malicious URL ML Classification - Answers.json ```(open Zeppelin notebook and import JSON to view)```
-   - Worksheet 9.0 - Featureless Deep Learning URL - Answers.ipynb
-   - Worksheet 11.0 - Zeppelin Part1 - PySpark + ELK + Kafka - Answers.json ```(open Zeppelin notebook and import JSON to view)```
-   - Worksheet 11.0 - Zeppelin Part2 - PySpark + ELK + Kafka -Answers.json ```(open Zeppelin notebook and import JSON to view)```
+ - Worksheet 9.0 - Featureless Deep Learning URL - Answers.ipynb
 
 ### Recommended Readings
 
