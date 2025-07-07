@@ -1,5 +1,5 @@
 # Applied Data Science for Security Professionals
-### BlackHat 2024 Trainings presented by GTK Cyber
+### BlackHat 2025 Trainings presented by GTK Cyber
 
 Notebooks/Exercises:
 
@@ -15,7 +15,6 @@ Notebooks/Exercises:
 - Worksheet 5.4 - Automate it All!.ipynb
 - Worksheet 6.0 - Clustering.ipynb
 - Worksheet 7.0 - Anomaly Detection.ipynb
-- Worksheet 8.0 - Hunting with Data Science.ipynb
 - Worksheet 10.1 - Using AI for Anomaly Detection.ipynb
 - Worksheet 10.2 - Exploratory Data Analysis with AI.ipynb
 - Worksheet 11 - Attacking AI.ipynb
