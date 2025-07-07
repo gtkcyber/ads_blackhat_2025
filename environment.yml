@@ -26,7 +26,6 @@ dependencies:
   - pmdarima
   - cufflinks-py
   - panel
-  - python-whois
   - numba==0.58.1  
   
   
