@@ -1,0 +1,32 @@
+name: gtk-blackhat                                                                                                                               
+channels:
+  - defaults
+  - conda-forge
+  - districtdatalabs
+  - rapidsai
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - openai
+  - plotly
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pip
+  - ydata-profiling
+  - ipywidgets
+  - yellowbrick
+  - lime
+  - pydotplus
+  - scikit-plot
+  - tpot
+  - pmdarima
+  - cufflinks-py
+  - panel
+  - python-whois
+  - numba==0.58.1  
+  
+  
