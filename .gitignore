@@ -1,4 +1,6 @@
 /venv/
 /notebooks/.ipynb_checkpoints/
 /answers/.ipynb_checkpoints/
+.ipynb_checkpoints/
 /.idea/
+
