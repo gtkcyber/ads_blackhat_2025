@@ -10,7 +10,7 @@ Notebooks/Exercises:
 - Worksheet 3.0 - Data Visualization.ipynb
 - Worksheet 4.0 - Feature Engineering.ipynb
 - Worksheet 5.1 - DGA Detection using Supervised Learning.ipynb
-- Worksheet 5.1 - DGA Making Predictions on New Data.ipynb
+- Worksheet 5.2 - DGA Model Pipeline.ipynb
 - Worksheet 5.3 - Tuning your Classifier.ipynb
 - Worksheet 5.4 - Automate it All!.ipynb
 - Worksheet 6.0 - Clustering.ipynb
