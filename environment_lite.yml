@@ -14,10 +14,9 @@ dependencies:
   - pip
   - ydata-profiling
   - ipywidgets
+  - ipykernel
   - pydotplus
   - pmdarima
-  - numba==0.58.1 
-  - tpot
-  - lime
-  
+  - numba==0.58.1  
+
   
