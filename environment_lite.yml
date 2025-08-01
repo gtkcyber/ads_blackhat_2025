@@ -1,4 +1,4 @@
-name: gtk-blackhat                                                                                                                               
+name: gtk-blackhat-lite                                                                                                                               
 channels:
   - defaults
   - conda-forge
@@ -18,5 +18,5 @@ dependencies:
   - pydotplus
   - pmdarima
   - numba==0.58.1  
-
+  - jupyter
   
