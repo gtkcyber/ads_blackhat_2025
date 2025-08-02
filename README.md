@@ -26,8 +26,8 @@ all with a focus on direct applicability to cyber security.
 - Machine Learning (Supervised)
 - Machine Learning (Unsupervised)
 - Anomaly Detection
-- Hacking Machine Learning Models
-
+- Deep Learning
+- AI
 
 #### GitHub Structure
 
@@ -58,10 +58,7 @@ Notebooks/Scripts/Exercises and Data
 - Worksheet 5.4 - Automate it All!.ipynb
 - Worksheet 6.0 - Clustering.ipynb
 - Worksheet 7.0 - Anomaly Detection.ipynb
-- Worksheet 9.0 - Featureless Deep Learning URL.ipynb
-- Worksheet 10.1 - Using AI for Anomaly Detection.ipynb
-- Worksheet 10.2 - Exploratory Data Analysis with AI.ipynb
-- Worksheet 11.0 - Attacking AI.ipynb
+
 
 ### [answers](./answers)
 
@@ -77,11 +74,6 @@ Notebooks/Scripts/Exercises and Data
 - Worksheet 5.4 - Automate it All! - Answers.ipynb
 - Worksheet 6.0 - Clustering - Answers.ipynb
 - Worksheet 7.0 - Anomaly Detection - Answers.ipynb
-- Worksheet 9.0 - Featureless Deep Learning URL - Answers.ipynb
-- Worksheet 10.1 - Using GPT for Anomaly Detection - Answers.ipynb
-- Worksheet 10.2 - Exploratory Data Analysis with AI - Answers.ipynb
-- Worksheet 11.0 - Attacking AI - Answers.ipynb
-
     
     
 ## [bonus](./bonus)
