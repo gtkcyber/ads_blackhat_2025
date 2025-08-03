@@ -30,3 +30,7 @@ MANIFEST
 /data/fingerprints/split_dataset/
 /answers/log*/
 /notebooks/log*/
+data/dga_decision_tree.pkl
+data/dga_features_final_df.csv
+data/dga_features_final_df_domain.csv
+data/dga_model*
