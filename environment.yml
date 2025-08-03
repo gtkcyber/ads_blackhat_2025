@@ -7,7 +7,6 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  - openai
   - scikit-learn
   - scipy
   - statsmodels
@@ -17,7 +16,5 @@ dependencies:
   - pydotplus
   - pmdarima
   - numba==0.58.1 
-  - tpot
-  - lime
-  
+  - jupyter
   
