@@ -26,4 +26,7 @@ MANIFEST
 /answers/.ipynb_checkpoints/
 .ipynb_checkpoints/
 /.idea/
-/data/train_data/
+/data/fingerprints/train_data/
+/data/fingerprints/split_dataset/
+/answers/log*/
+/notebooks/log*/
