@@ -26,4 +26,4 @@ MANIFEST
 /answers/.ipynb_checkpoints/
 .ipynb_checkpoints/
 /.idea/
-
+/data/train_data/
